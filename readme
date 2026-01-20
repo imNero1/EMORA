@@ -1,35 +1,26 @@
 # 💝 E.M.O.R.A
 
-## **Emotional Mindful Outreach & Recovery Assistance**
+## Emotional Mindful Outreach & Recovery Assistance
 
-### A privacy-first mental health support platform combining professional therapy, AI-assisted guidance, and moderated peer communities — designed to be anonymous, inclusive, and judgment-free.
-
-<br>
+A privacy-first mental health support platform combining professional therapy, AI-assisted guidance, and moderated peer communities — designed to be anonymous, inclusive, and judgment-free.
 
 ---
 
-<br>
-
-## 🎯 **Project Overview**
+## 🎯 Project Overview
 
 **E.M.O.R.A** is built to address loneliness, emotional distress, and barriers to mental health care.
 
 Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 3: Good Health & Well-Being**, the platform explores how technology can support — not replace — human connection.
 
-### **E.M.O.R.A prioritizes:**
-
-- **Anonymity**
-- **Emotional safety**
-- **Ethical AI usage**
-- **Accessibility**
-
-<br>
+**E.M.O.R.A prioritizes:**
+- Anonymity
+- Emotional safety
+- Ethical AI usage
+- Accessibility
 
 ---
 
-<br>
-
-## ✨ **Core Features**
+## ✨ Core Features
 
 - 🔒 **Full Anonymity** — no real names, no tracking, no pressure
 - 🧠 **Licensed Professionals** — access to certified therapists and counselors
@@ -38,45 +29,34 @@ Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 
 - 🚨 **Crisis Resources** — immediate help information when needed
 - 🌍 **Multi-Platform Ready** — web-first, scalable by design
 
-<br>
-
 ---
 
-<br>
+## 🧩 Platform Pillars
 
-## 🧩 **Platform Pillars**
-
-### 🩺 **Professional Support**
+### 🩺 Professional Support
 - Ethical, confidential therapy sessions
 - Clear boundaries between AI and human care
 
-### 🤖 **AI-Assisted Guidance**
+### 🤖 AI-Assisted Guidance
 - Emotional check-ins and coping strategies
 - Crisis-aware behavior (redirects to real help)
 - Designed to support, **never diagnose**
 
-### 💬 **Community Healing**
+### 💬 Community Healing
 - Anonymous, moderated forums
 - Zero tolerance for harassment or abuse
 - Peer support without exposure
 
-<br>
-
 ---
 
-<br>
+## 🚀 Quick Start
 
-## 🚀 **Quick Start** (Frontend Prototype)
+1. Download the project files
+2. Place them in the same directory
+3. Open `index.html` in your browser
+4. Start exploring
 
-**1.** Download the project files  
-**2.** Place them in the same directory  
-**3.** Open `index.html` in your browser  
-**4.** Start exploring  
-
-<br>
-
-### **Required Files**
-
+**Required Files:**
 ```
 ├── index.html
 ├── styles.css
@@ -84,109 +64,76 @@ Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 
 └── README.md
 ```
 
-<br>
+---
+
+## 🎨 Brand Identity
+
+**Color Palette:**
+
+| Role | HEX |
+|------|-----|
+| Primary Red | `#880D1E` |
+| Secondary Red | `#DD2D4A` |
+| Accent Pink | `#F26A8D` |
+| Light Pink | `#F49CBB` |
+| Calm Blue | `#CBEEF3` |
+
+**Typography:**
+- Font: DM Sans
+- Style: Clean, modern, emotionally neutral
 
 ---
 
-<br>
-
-## 🎨 **Brand Identity**
-
-### **Color Palette**
-
-| **Role** | **HEX** |
-|----------|---------|
-| **Primary Red** | `#880D1E` |
-| **Secondary Red** | `#DD2D4A` |
-| **Accent Pink** | `#F26A8D` |
-| **Light Pink** | `#F49CBB` |
-| **Calm Blue** | `#CBEEF3` |
-
-<br>
-
-### **Typography**
-
-- **Font:** DM Sans
-- **Style:** Clean, modern, emotionally neutral
-
-<br>
-
----
-
-<br>
-
-## 🧠 **Ethical Design Principles**
+## 🧠 Ethical Design Principles
 
 - ✅ AI does **not** replace professionals
 - ✅ No diagnosis or medical claims
 - ✅ User safety overrides engagement
 - ✅ Crisis detection triggers real-world resources
 
-<br>
+---
+
+## 🆘 Crisis Support
+
+**If you are in immediate danger, seek local emergency services.**
+
+- 🇺🇸 US: 988 — Suicide & Crisis Lifeline
+- 💬 Text: HOME to 741741
+- 🚨 Emergency: 911
+
+*(International resources will be added)*
 
 ---
 
-<br>
-
-## 🆘 **Crisis Support**
-
-### **If you are in immediate danger, seek local emergency services.**
-
-- 🇺🇸 **US:** 988 — Suicide & Crisis Lifeline
-- 💬 **Text:** HOME to 741741
-- 🚨 **Emergency:** 911
-
-*(International resources will be added.)*
-
-<br>
-
----
-
-<br>
-
-## 🏗️ **Project Status**
+## 🏗️ Project Status
 
 - 🔧 Early development / prototype stage
 - 🎨 UI/UX exploration ongoing
 - 🧠 Ethical & safety review in progress
 
-**Contributions, ideas, and feedback are welcome.**
-
-<br>
+Contributions, ideas, and feedback are welcome.
 
 ---
 
-<br>
+## 🤝 Contributing
 
-## 🤝 **Contributing**
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
 
-**1.** Fork the repository  
-**2.** Create a feature branch  
-**3.** Commit your changes  
-**4.** Open a Pull Request  
-
-**Please respect the mental health focus of the project.**
-
-<br>
+Please respect the mental health focus of the project.
 
 ---
 
-<br>
+## 📜 License
 
-## 📜 **License**
-
-**MIT License** — free to use, modify, and distribute responsibly.
-
-<br>
+MIT License — free to use, modify, and distribute responsibly.
 
 ---
 
-<br>
+## 💝 Credits
 
-## 💝 **Credits**
+Built with care by **ECHOART HACKART**
 
-**Built with care by ECHOART HACKART**
-
-<br>
-
-### *You are valued. You are heard. You are not alone.*
+*You are valued. You are heard. You are not alone.*
