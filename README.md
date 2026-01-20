@@ -56,13 +56,7 @@ Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 
 3. Open `index.html` in your browser
 4. Start exploring
 
-**Required Files:**
-```
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
+
 
 ---
 
@@ -108,8 +102,6 @@ Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 
 ## 🏗️ Project Status
 
 - 🔧 Early development / prototype stage
-- 🎨 UI/UX exploration ongoing
-- 🧠 Ethical & safety review in progress
 
 Contributions, ideas, and feedback are welcome.
 
