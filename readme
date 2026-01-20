@@ -1,131 +1,192 @@
-💝 E.M.O.R.A — Emotional Mindful Outreach & Recovery Assistance
+# 💝 E.M.O.R.A
 
+## **Emotional Mindful Outreach & Recovery Assistance**
 
+### A privacy-first mental health support platform combining professional therapy, AI-assisted guidance, and moderated peer communities — designed to be anonymous, inclusive, and judgment-free.
 
+<br>
 
+---
 
+<br>
 
+## 🎯 **Project Overview**
 
+**E.M.O.R.A** is built to address loneliness, emotional distress, and barriers to mental health care.
 
-A privacy-first mental health support platform combining professional therapy, AI-assisted guidance, and moderated peer communities — designed to be anonymous, inclusive, and judgment-free.
+Inspired by the film **Her** and aligned with **UN Sustainable Development Goal 3: Good Health & Well-Being**, the platform explores how technology can support — not replace — human connection.
 
-🎯 Project Overview
+### **E.M.O.R.A prioritizes:**
 
-E.M.O.R.A is built to address loneliness, emotional distress, and barriers to mental health care.
+- **Anonymity**
+- **Emotional safety**
+- **Ethical AI usage**
+- **Accessibility**
 
-Inspired by the film Her and aligned with UN Sustainable Development Goal 3: Good Health & Well-Being, the platform explores how technology can support — not replace — human connection.
+<br>
 
-E.M.O.R.A prioritizes:
+---
 
-anonymity
+<br>
 
-emotional safety
+## ✨ **Core Features**
 
-ethical AI usage
+- 🔒 **Full Anonymity** — no real names, no tracking, no pressure
+- 🧠 **Licensed Professionals** — access to certified therapists and counselors
+- 🤖 **AI Wellness Guide** — 24/7 emotional support, grounding tools, and resources
+- 💬 **Support Communities** — moderated, safe discussion spaces
+- 🚨 **Crisis Resources** — immediate help information when needed
+- 🌍 **Multi-Platform Ready** — web-first, scalable by design
 
-accessibility
+<br>
 
-✨ Core Features
+---
 
-🔒 Full Anonymity — no real names, no tracking, no pressure
+<br>
 
-🧠 Licensed Professionals — access to certified therapists and counselors
+## 🧩 **Platform Pillars**
 
-🤖 AI Wellness Guide — 24/7 emotional support, grounding tools, and resources
+### 🩺 **Professional Support**
+- Ethical, confidential therapy sessions
+- Clear boundaries between AI and human care
 
-💬 Support Communities — moderated, safe discussion spaces
+### 🤖 **AI-Assisted Guidance**
+- Emotional check-ins and coping strategies
+- Crisis-aware behavior (redirects to real help)
+- Designed to support, **never diagnose**
 
-🚨 Crisis Resources — immediate help information when needed
+### 💬 **Community Healing**
+- Anonymous, moderated forums
+- Zero tolerance for harassment or abuse
+- Peer support without exposure
 
-🌍 Multi-Platform Ready — web-first, scalable by design
+<br>
 
-🧩 Platform Pillars
-🩺 Professional Support
+---
 
-Ethical, confidential therapy sessions
+<br>
 
-Clear boundaries between AI and human care
+## 🚀 **Quick Start** (Frontend Prototype)
 
-🤖 AI-Assisted Guidance
+**1.** Download the project files  
+**2.** Place them in the same directory  
+**3.** Open `index.html` in your browser  
+**4.** Start exploring  
 
-Emotional check-ins and coping strategies
+<br>
 
-Crisis-aware behavior (redirects to real help)
+### **Required Files**
 
-Designed to support, never diagnose
-
-💬 Community Healing
-
-Anonymous, moderated forums
-
-Zero tolerance for harassment or abuse
-
-Peer support without exposure
-
-🚀 Quick Start (Frontend Prototype)
-1. Download the project files
-2. Place them in the same directory
-3. Open index.html in your browser
-4. Start exploring
-
-Required Files
+```
 ├── index.html
-├── emora.css
-├── emora.js
+├── styles.css
+├── script.js
 └── README.md
+```
 
-🎨 Brand Identity
-🎨 Color Palette
-Role	HEX
-Primary Red	#880D1E
-Secondary Red	#DD2D4A
-Accent Pink	#F26A8D
-Light Pink	#F49CBB
-Calm Blue	#CBEEF3
-🔤 Typography
+<br>
 
-DM Sans
+---
 
-Clean, modern, emotionally neutral
+<br>
 
-🧠 Ethical Design Principles
+## 🎨 **Brand Identity**
 
-AI does not replace professionals
+### **Color Palette**
 
-No diagnosis or medical claims
+| **Role** | **HEX** |
+|----------|---------|
+| **Primary Red** | `#880D1E` |
+| **Secondary Red** | `#DD2D4A` |
+| **Accent Pink** | `#F26A8D` |
+| **Light Pink** | `#F49CBB` |
+| **Calm Blue** | `#CBEEF3` |
 
-User safety overrides engagement
+<br>
 
-Crisis detection triggers real-world resources
+### **Typography**
 
+- **Font:** DM Sans
+- **Style:** Clean, modern, emotionally neutral
 
-🏗️ Project Status
+<br>
 
-🔧 prototype stage
+---
 
+<br>
 
-Contributions, ideas, and feedback are welcome.
+## 🧠 **Ethical Design Principles**
 
-🤝 Contributing
+- ✅ AI does **not** replace professionals
+- ✅ No diagnosis or medical claims
+- ✅ User safety overrides engagement
+- ✅ Crisis detection triggers real-world resources
 
-Fork the repository
+<br>
 
-Create a feature branch
+---
 
-Commit your changes
+<br>
 
-Open a Pull Request
+## 🆘 **Crisis Support**
 
-Please respect the mental health focus of the project.
+### **If you are in immediate danger, seek local emergency services.**
 
-📜 License
+- 🇺🇸 **US:** 988 — Suicide & Crisis Lifeline
+- 💬 **Text:** HOME to 741741
+- 🚨 **Emergency:** 911
 
-MIT License — free to use, modify, and distribute responsibly.
+*(International resources will be added.)*
 
-💝 Credits
+<br>
 
-Built with care by ECHOART HACKART
+---
 
-You are valued.
-You are heard.
-You are not alone.
+<br>
+
+## 🏗️ **Project Status**
+
+- 🔧 Early development / prototype stage
+- 🎨 UI/UX exploration ongoing
+- 🧠 Ethical & safety review in progress
+
+**Contributions, ideas, and feedback are welcome.**
+
+<br>
+
+---
+
+<br>
+
+## 🤝 **Contributing**
+
+**1.** Fork the repository  
+**2.** Create a feature branch  
+**3.** Commit your changes  
+**4.** Open a Pull Request  
+
+**Please respect the mental health focus of the project.**
+
+<br>
+
+---
+
+<br>
+
+## 📜 **License**
+
+**MIT License** — free to use, modify, and distribute responsibly.
+
+<br>
+
+---
+
+<br>
+
+## 💝 **Credits**
+
+**Built with care by ECHOART HACKART**
+
+<br>
+
+### *You are valued. You are heard. You are not alone.*
